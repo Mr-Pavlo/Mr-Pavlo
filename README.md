@@ -49,5 +49,7 @@ Responsive photographer portfolio landing page created from a Figma design.
 - Array methods
 
 ## 🌐 Contact
-
+- [LinkedIn](https://www.linkedin.com/in/pavlo-morozov-6a726621a/)
 - Email: pavlo.morozov.official@gmail.com
+
+✨ Welcome to my corner of GitHub! Explore my repositories, discover what I’m building, and let’s connect to create something meaningful together.
