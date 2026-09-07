@@ -42,6 +42,13 @@ Responsive photographer portfolio landing page created from a Figma design.
 - [Live Demo](https://mr-pavlo.github.io/photographer-blue/)
 - [Source Code](https://github.com/Mr-Pavlo/photographer-blue)
 
+### Game Store Website
+
+Multi-page game store website built as a frontend practice project based on a reference design.
+
+- [Live Demo](https://mr-pavlo.github.io/game-store/)
+- [Source Code](https://github.com/Mr-Pavlo/game-store)
+
 ## 🧠 Currently Learning
 
 - JavaScript
